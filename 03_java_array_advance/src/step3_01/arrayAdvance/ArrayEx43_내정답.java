@@ -124,7 +124,7 @@ public class ArrayEx43_내정답 {
 		//예외처리
 		if(SIZE <= xx || xx < 0) continue;
 		if(SIZE <= yy || yy < 0) continue;
-		if(map[yy][xx] == WALL || map[yy][xx] == GAOL) continue;
+		if(map[yy][xx] == WALL || map[yy][xx] == GOAL) continue;
 		
 		//공을 만났을때
 		if (map[yy][xx] == BALL) {
