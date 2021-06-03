@@ -69,9 +69,6 @@ public class ArrayEx35_내정답 {
 		}
 		System.out.println("4의 배수의 개수 = " + count);
 
-		
-
-
 	}
 
 }

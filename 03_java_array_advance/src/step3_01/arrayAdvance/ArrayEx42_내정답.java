@@ -1,5 +1,6 @@
 package step3_01.arrayAdvance;
-//2021/04/02 15:12 ~ 16:35
+//* 분석: 2021/04/02 15:12 ~ 16:35
+
 import java.util.Scanner;
 
 // #오목

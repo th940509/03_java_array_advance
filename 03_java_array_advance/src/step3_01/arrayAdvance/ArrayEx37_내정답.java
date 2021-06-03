@@ -1,8 +1,8 @@
 package step3_01.arrayAdvance;
+//2021/04/04 20:35 ~ 20:42
 
 import java.util.Arrays;
 
-//2021/04/04 20:35 ~ 20:42
 
 /*
  *	# 2차원배열 기본문제[3단계]

@@ -1,5 +1,6 @@
 package step3_01.arrayAdvance;
-//2021/04/06 22:30 ~ 23:11
+// * 분석: 2021/04/06 22:30 ~ 23:11
+
 import java.util.Random;
 import java.util.Scanner;
 
